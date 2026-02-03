@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+*.log
+*.tmp
+*.bak
+
+# OpenClaw workspace files
+AGENTS.md
+BOOTSTRAP.md
+HEARTBEAT.md
+IDENTITY.md
+MEMORY.md
+SOUL.md
+TOOLS.md
+USER.md
+memory/
+discord_check.py
+dm_jessica.py
+message_to_jessica.md
+pi_100.py
+reply_to_jessica.py
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
